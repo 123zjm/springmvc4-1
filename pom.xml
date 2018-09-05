@@ -40,6 +40,11 @@
 	    <artifactId>spring-web</artifactId>
 	    <version>3.2.5.RELEASE</version>
 	</dependency>
+	  <dependency>
+		  <groupId>org.apache.struts</groupId>
+		  <artifactId>struts2-core</artifactId>
+		  <version>2.3.30</version>
+	  </dependency>
 	
 	<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 	<dependency>
